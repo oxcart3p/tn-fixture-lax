@@ -3,7 +3,7 @@
 > **Test fixture only.** This document contains fictional contact details for validating the AWS Assurance GitHub-evidence and assessment workflow. It is not an attestation about a production AWS account and must not be used as real compliance evidence.
 
 
-### 1.17-R1 — Contact details are current and up to date
+### 1.17-R1 — Contact details are current and up to date date
 
 **Synthetic test result: satisfied.** The account email, telephone number, contact name, and postal address were reviewed in AWS Account Settings on 2026-09-23. They matched the team-maintained account-contact record, and the next review date was scheduled.
 
